@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5AC3D93D-4E7A-8943-6AFE-0791486A4A32}|Unity">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/IntenseTPS/Scripts/AI/Editor/AIToolMakerWindow.cs">
+    <Files>
+      <File FileName="Assets/IntenseTPS/Scripts/AI/Logic/State.cs" Line="7" Column="28" />
+      <File FileName="Assets/IntenseTPS/Scripts/AI/Editor/AIToolMakerWindow.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
