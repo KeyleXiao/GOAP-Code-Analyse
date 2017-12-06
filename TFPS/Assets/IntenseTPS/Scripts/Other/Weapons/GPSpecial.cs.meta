@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 825729bbe49c3784aaaf0225e98ba3c4
+labels:
+- Done
+- Fully
+- Implemented
+- Not
+- c#
+- code
+- mecanim
+- script
+timeCreated: 1469541174
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
